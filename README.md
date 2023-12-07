@@ -1,7 +1,6 @@
 # Processing code for "Radiative absorption enhancements by black carbon controlled by particle-to-particle heterogeneity in composition"
+Description: This repository contains the processing script used in the analysis presented in Fierce et al. (2024). Constraining black carbon aging in global models to reflect timescales for internal mixing. JAMES (under review).
 
-Description: This repository contains the processing script used in the analysis presented in Fierce et al., 2020. The particle-resolved simulations can be run with PartMC version 2.1.5, which is available at http://lagrange.mechse.illinois.edu/partmc/. The repository also contains laboratory measurements from the 4th Boston College (BC4) Experiment and field observations from Fontana, CA (Cappa et al., JGR 2019).
+The CAM aging data used in the analysis is provided at: https://portal.nersc.gov/project/m1657/BC-aging-CAM-data/. The particle-resolved simulations were performed with PartMC version 2.1.5 (https://github.com/compdyn/partmc), and the version of mosaic was mosaic-2012-0125 (available from Rahul Zaveri). Scenarios are described in: Fierce, L., Riemer, N., & Bond, T. C. (2017). Toward reduced representation of mixing state for simulating aerosol effects on climate. Bulletin of the American Meteorological Society, 98(5), 971-980.
 
-Accompanying paper: Fierce, L., Y. Li, N. Riemer, N. A. J. Schutgens, A. Aiken, M. K. Dubey, P.-L. Ma, and D. Wuebbles, Constraining black carbon aging in global models to reflect timescales for internal mixing (in progress)
-# fierce2020_internal-mixing-timescale
-# fierce2020_internal-mixing-timescale
+
